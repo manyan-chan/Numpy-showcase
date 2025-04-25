@@ -1,5 +1,7 @@
 # NumPy Showcase - Streamlit App
 
+![screenshot](screenshot.png)
+
 This interactive web application, built with Streamlit and NumPy, serves as a practical demonstration of proficiency in various core concepts of the NumPy library. It allows users to explore and experiment with NumPy features in real-time through a user-friendly interface.
 
 ## Purpose
